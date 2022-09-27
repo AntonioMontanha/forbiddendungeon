@@ -1,23 +1,29 @@
-export const BOILERPLATE = {};
+export const FORBIDDENDUNGEON = {};
+
+// Define constants here, such as:
+FORBIDDENDUNGEON.foobar = {
+  'bas': 'FORBIDDENDUNGEON.bas',
+  'bar': 'FORBIDDENDUNGEON.bar'
+};
 
 /**
  * The set of Ability Scores used within the sytem.
  * @type {Object}
  */
- BOILERPLATE.abilities = {
-  "str": "BOILERPLATE.AbilityStr",
-  "dex": "BOILERPLATE.AbilityDex",
-  "con": "BOILERPLATE.AbilityCon",
-  "int": "BOILERPLATE.AbilityInt",
-  "wis": "BOILERPLATE.AbilityWis",
-  "cha": "BOILERPLATE.AbilityCha"
+ FORBIDDENDUNGEON.abilities = {
+  "str": "FORBIDDENDUNGEON.AbilityStr",
+  "dex": "FORBIDDENDUNGEON.AbilityDex",
+  "con": "FORBIDDENDUNGEON.AbilityCon",
+  "int": "FORBIDDENDUNGEON.AbilityInt",
+  "wis": "FORBIDDENDUNGEON.AbilityWis",
+  "cha": "FORBIDDENDUNGEON.AbilityCha"
 };
 
-BOILERPLATE.abilityAbbreviations = {
-  "str": "BOILERPLATE.AbilityStrAbbr",
-  "dex": "BOILERPLATE.AbilityDexAbbr",
-  "con": "BOILERPLATE.AbilityConAbbr",
-  "int": "BOILERPLATE.AbilityIntAbbr",
-  "wis": "BOILERPLATE.AbilityWisAbbr",
-  "cha": "BOILERPLATE.AbilityChaAbbr"
+FORBIDDENDUNGEON.abilityAbbreviations = {
+  "str": "FORBIDDENDUNGEON.AbilityStrAbbr",
+  "dex": "FORBIDDENDUNGEON.AbilityDexAbbr",
+  "con": "FORBIDDENDUNGEON.AbilityConAbbr",
+  "int": "FORBIDDENDUNGEON.AbilityIntAbbr",
+  "wis": "FORBIDDENDUNGEON.AbilityWisAbbr",
+  "cha": "FORBIDDENDUNGEON.AbilityChaAbbr"
 };

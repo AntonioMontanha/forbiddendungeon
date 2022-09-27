@@ -1,22 +1,22 @@
 {
-  "BOILERPLATE.AbilityStr": "Strength",
-  "BOILERPLATE.AbilityCon": "Constitution",
-  "BOILERPLATE.AbilityDex": "Dexterity",
-  "BOILERPLATE.AbilityInt": "Intelligence",
-  "BOILERPLATE.AbilityWis": "Wisdom",
-  "BOILERPLATE.AbilityCha": "Charisma",
+  "FORBIDDENDUNGEON.AbilityStr": "Strength",
+  "FORBIDDENDUNGEON.AbilityCon": "Constitution",
+  "FORBIDDENDUNGEON.AbilityDex": "Dexterity",
+  "FORBIDDENDUNGEON.AbilityInt": "Intelligence",
+  "FORBIDDENDUNGEON.AbilityWis": "Wisdom",
+  "FORBIDDENDUNGEON.AbilityCha": "Charisma",
 
-  "BOILERPLATE.AbilityStrAbbr": "str",
-  "BOILERPLATE.AbilityConAbbr": "con",
-  "BOILERPLATE.AbilityDexAbbr": "dex",
-  "BOILERPLATE.AbilityIntAbbr": "int",
-  "BOILERPLATE.AbilityWisAbbr": "wis",
-  "BOILERPLATE.AbilityChaAbbr": "cha",
+  "FORBIDDENDUNGEON.AbilityStrAbbr": "str",
+  "FORBIDDENDUNGEON.AbilityConAbbr": "con",
+  "FORBIDDENDUNGEON.AbilityDexAbbr": "dex",
+  "FORBIDDENDUNGEON.AbilityIntAbbr": "int",
+  "FORBIDDENDUNGEON.AbilityWisAbbr": "wis",
+  "FORBIDDENDUNGEON.AbilityChaAbbr": "cha",
 
-  "BOILERPLATE.EffectCreate": "Create Effect",
-  "BOILERPLATE.EffectToggle": "Toggle Effect",
-  "BOILERPLATE.EffectEdit": "Edit Effect",
-  "BOILERPLATE.EffectDelete": "Delete Effect",
+  "FORBIDDENDUNGEON.EffectCreate": "Create Effect",
+  "FORBIDDENDUNGEON.EffectToggle": "Toggle Effect",
+  "FORBIDDENDUNGEON.EffectEdit": "Edit Effect",
+  "FORBIDDENDUNGEON.EffectDelete": "Delete Effect",
 
-  "BOILERPLATE.Add": "Add"
+  "FORBIDDENDUNGEON.Add": "Add"
 }
