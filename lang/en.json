@@ -1,0 +1,22 @@
+{
+  "FORBIDDENDUNGEON.AbilityStr": "Strength",
+  "FORBIDDENDUNGEON.AbilityCon": "Constitution",
+  "FORBIDDENDUNGEON.AbilityDex": "Dexterity",
+  "FORBIDDENDUNGEON.AbilityInt": "Intelligence",
+  "FORBIDDENDUNGEON.AbilityWis": "Wisdom",
+  "FORBIDDENDUNGEON.AbilityCha": "Charisma",
+
+  "FORBIDDENDUNGEON.AbilityStrAbbr": "str",
+  "FORBIDDENDUNGEON.AbilityConAbbr": "con",
+  "FORBIDDENDUNGEON.AbilityDexAbbr": "dex",
+  "FORBIDDENDUNGEON.AbilityIntAbbr": "int",
+  "FORBIDDENDUNGEON.AbilityWisAbbr": "wis",
+  "FORBIDDENDUNGEON.AbilityChaAbbr": "cha",
+
+  "FORBIDDENDUNGEON.EffectCreate": "Create Effect",
+  "FORBIDDENDUNGEON.EffectToggle": "Toggle Effect",
+  "FORBIDDENDUNGEON.EffectEdit": "Edit Effect",
+  "FORBIDDENDUNGEON.EffectDelete": "Delete Effect",
+
+  "FORBIDDENDUNGEON.Add": "Add"
+}
